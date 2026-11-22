@@ -4,6 +4,8 @@ I take a large company's ambiguous technology bet from a blank sheet to an appro
 
 Product strategy executive, based in Singapore. In 2026 I built 14 apps as the sole developer, working with artificial intelligence (AI) coding tools. Ten are live on the App Store.
 
+More about my work is on my [portfolio site](https://kg54ktdvxx-gif.github.io/portfolio/).
+
 ## Live on the App Store
 
 | App | Runs on | What it does |
