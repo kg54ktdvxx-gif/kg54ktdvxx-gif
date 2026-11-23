@@ -1,4 +1,4 @@
-# Owen McLoughlin
+# OMcL
 
 I take a large company's ambiguous technology bet from a blank sheet to an approved, funded plan. I have shipped products to millions of users, and I build with AI myself, so my strategies are grounded in what the tools can actually do.
 
