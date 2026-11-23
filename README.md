@@ -1,8 +1,8 @@
 # OMcL
 
-I take a large company's ambiguous technology bet from a blank sheet to an approved, funded plan. I have shipped products to millions of users, and I build with AI myself, so my strategies are grounded in what the tools can actually do.
+Head of Product and product strategy executive with 20+ years in telecommunications, financial services and media, at Etisalat, Prudential, NCS (Singtel), M1 and Vodafone.
 
-Product strategy executive, based in Singapore. In 2026 I built 14 apps as the sole developer, working with artificial intelligence (AI) coding tools. Ten are live on the App Store.
+Based in Singapore. In 2026 I built 14 apps as the sole developer, working with artificial intelligence (AI) coding tools. Ten are live on the App Store.
 
 More about my work is on my [portfolio site](https://kg54ktdvxx-gif.github.io/portfolio/).
 
